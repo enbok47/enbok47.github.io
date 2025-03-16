@@ -1,0 +1,156 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  /* Верхняя навигац панель */
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+  }
+  
+  .nav-container > nav > ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+  }
+  
+  .nav-container > nav > ul > li > a {
+    display: block;
+    padding: 10px;
+    border-style: solid;
+    border-width: 0.5px;
+  }
+  
+  /* Контент */
+  span {
+    font-size: xx-large;
+    font-style: italic;
+    font-stretch: expanded;
+    background-color: rgb(213, 219, 213);
+    color: rgb(36, 6, 92);
+  }
+  
+  /*  комент как в HTML  */
+  
+  ol {
+    background-color: rgb(213, 219, 213);
+    list-style: decimal;
+  }
+  
+  ul {
+    list-style: lower-latin;
+    list-style-type: decimal-leading-zero;
+  }
+  
+  .moi-1 {
+    color: #e73313;
+    background-color: rgba(40, 231, 33, 0.384);
+  }
+  
+  p {
+    font-size: 24px;
+    margin: 0px;
+  }
+  
+  .container {
+    margin: 10px;
+    text-align: center;
+    display: inline-block;
+  
+    background-color: beige;
+  }
+  * .main {
+    text-align: center;
+  }
+  
+  .container > img {
+    max-width: 500px;
+  }
+  
+  .list-container {
+    margin: 20px;
+    margin-left: 50px;
+    border-style: solid;
+    display: inline-block;
+    padding: 20px;
+    padding-left: 50px;
+    border-width: 0.5px;
+    background-color: rgb(213, 219, 213);
+  }
+  
+  .list-container > p {
+    text-align: center;
+    font-weight: bold;
+  }
+  .img-container {
+    padding: 5px;
+    border-style: solid;
+    border-width: 0, 5px;
+    border-color: rgb(16, 16, 202);
+    margin: 10px;
+    float: right;
+    text-align: center;
+  }
+  
+  .img-container > div {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    align-items: center;
+  }
+  
+  .logo-html5 {
+    max-width: 500px;
+    margin: 10px;
+  }
+  
+  /*   media  */
+  
+  @media (max-width: 900px) {
+    .nav-container {
+      flex-direction: column;
+    }
+  }
+  
+  .text-page {
+    padding-left: 15px;
+  }
+  .page {
+    display: flex;
+    justify-content: center;
+  }
+  .header {
+    width: 12%;
+    background-color: rgb(213, 219, 213);
+  }
+  
+  .section {
+    width: 84%;
+  }
+  .header > ol {
+    list-style: none;
+    border-bottom-style: solid;
+    border-width: 0.5px;
+    margin: 10px;
+    padding-bottom: 10px;
+  }
+  
+  .tegi > p > h2 {
+    text-align: center;
+  
+    padding: 10px;
+    font-size: large;
+    align-items: center;
+  }
+  .header > div {
+    width: 100%;
+  }
+  .header > div > img {
+  
+    width: 100%;
+    padding-top: 10px;
+  }
+  
