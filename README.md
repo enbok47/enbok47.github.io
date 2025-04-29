@@ -18,3 +18,4 @@ https://habr.com/ru/articles/771840/
 https://pikabu.ru/story/sdxl_pochemu_u_modeli_net_budushchego_instruktsiya_po_ustanovke_sdxl_10444256?ysclid=ma2sioy6rz835815773
 
 https://support.submit.shutterstock.com/s/article/Will-Shutterstock-continue-to-work-with-contributors-from-Russia-and-Belarus?language=en_US
+https://skillbox.ru/media/design/7_fotostokov_dlya_zarabotka/
