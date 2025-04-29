@@ -9,3 +9,6 @@ https://tensor.art/search
 https://skillbox.ru/media/design/stable-diffusion-starter/
 
 
+https://habr.com/ru/articles/729848/
+
+
