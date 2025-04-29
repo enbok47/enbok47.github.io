@@ -6,4 +6,6 @@ https://stock.adobe.com/bg/contributor/211361823/vasilina-fc?load_type=author&pr
 
 https://tensor.art/search
 
+https://skillbox.ru/media/design/stable-diffusion-starter/
+
 
