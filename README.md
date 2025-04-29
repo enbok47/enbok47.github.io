@@ -12,3 +12,7 @@ https://skillbox.ru/media/design/stable-diffusion-starter/
 https://habr.com/ru/articles/729848/
 
 
+https://habr.com/ru/articles/771840/
+
+
+
