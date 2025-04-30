@@ -23,5 +23,5 @@ https://skillbox.ru/media/design/7_fotostokov_dlya_zarabotka/
 https://playground.com/terms
 
 
-
+https://stock.adobe.com/ru/video/a-group-of-young-electrician-students-in-bright-safety-vests-and-hard-hats-stand-proudly-beside-their-completed-electrical-project-sharing-a-laugh-in-a-modern-vocational-training/1307617306
 
