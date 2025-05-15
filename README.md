@@ -2,7 +2,7 @@
 
 https://stock.adobe.com/ru/contributor/212183016/ksenia-pestereva?load_type=author&prev_url=detail
 
-
+https://stock.adobe.com/ru/images/%E3%83%94%E3%83%B3%E3%82%AF%E3%81%AE%E9%AB%AA%E3%81%AE%E3%81%8A%E5%A7%AB%E6%A7%98%E3%81%AF%E3%80%81%E9%BB%92%E3%81%AE%E8%83%8C%E6%99%AF%E3%81%AB%E5%AF%BE%E3%81%97%E3%81%A6%E3%83%9D%E3%83%BC%E3%82%BA%E3%82%92%E3%81%A8%E3%81%A3%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%2C%20%E3%82%B3%E3%83%94%E3%83%BC%E7%A9%BA%E9%96%93%E3%81%82%E3%82%8A/1435907531
 
 
 https://vkvideo.ru/video-220540379_456239919?ref_domain=yastatic.net
