@@ -1,5 +1,9 @@
 # enbok47.github.io
 
+https://stock.adobe.com/ru/contributor/212183016/ksenia-pestereva?load_type=author&prev_url=detail
+
+
+
 
 https://vkvideo.ru/video-220540379_456239919?ref_domain=yastatic.net
 https://ya.ru/video/preview/5199375711166452133
